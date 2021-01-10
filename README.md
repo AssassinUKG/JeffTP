@@ -2,5 +2,5 @@
 Python FTP application for CTF or internal access FTP services (local and remote) using ftplib
 
 ## Main app
-![](/assets/Capture.png)
+![](/assets/Capture.PNG)
 
