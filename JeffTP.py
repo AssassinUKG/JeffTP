@@ -124,7 +124,7 @@ print(ftp.getwelcome())
 while True:
     cmd = input(col.GREEN + "JeffTP$ " + col.RESET)
     # Exit
-    print(f"cmd: {cmd}")
+    #print(f"cmd: {cmd}")
     if cmd[0:4] == "exit":
         ftp.quit()
         sys.exit(0)
