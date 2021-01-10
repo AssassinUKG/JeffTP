@@ -1,6 +1,12 @@
 # JeffTP
 Python FTP application for CTF or internal access FTP services (local and remote) using ftplib
 
+## Usage
+./jeffTP.py -i IPADDRESS -u "USERNAME:PASSWORD"
+
+other options...
+-p - Add a none default port
+
 ## Main app
 ![](/assets/Capture.PNG)
 
