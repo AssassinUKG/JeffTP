@@ -15,7 +15,7 @@ other options...
 
 
 ## TODO: Planned upgrades
-* Add directory Download
+* Add Directory Download
 * Add Delete Directory
 * Add File Deletion
 * Add Rename File
